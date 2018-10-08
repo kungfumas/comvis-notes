@@ -9,3 +9,4 @@
     + [Sharpening image by adding its details](https://github.com/tbmreza/comvis-notes/blob/master/sharp.m)
     + [Median filter function usage example](https://github.com/tbmreza/comvis-notes/blob/master/medianfilter.m)
     + [Edge detection functions (e.g. Canny) usage example](https://github.com/tbmreza/comvis-notes/blob/master/detectedge.m)
+    + [MATLAB image acquisition from webcam](https://github.com/tbmreza/comvis-notes/blob/master/snapshot.m)
