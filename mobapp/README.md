@@ -14,4 +14,4 @@ Konsep-konsep object oriented programming:
 Snippets here are tested using VS Code installed with Java 8.
 
 1. [Switch case implementation in Java](https://github.com/tbmreza/comvis-notes/blob/master/mobapp/Switch_case.java)
-2. [Java keywords demonstration](https://github.com/tbmreza/comvis-notes/blob/master/mobapp/Keywords.java)
+2. [Java static demonstration](https://github.com/tbmreza/comvis-notes/blob/master/mobapp/static_demo.zip)
